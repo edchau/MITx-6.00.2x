@@ -69,7 +69,8 @@ Introduction to Computational Thinking and Data Science
 • Biased random walks
 • Treacherous fields
 
-**Lecture 7 – Inferential Statistics: • Probabilities**
+**Lecture 7 – Inferential Statistics: **
+• Probabilities
 • Confidence intervals
 
 **Lecture 8 – Monte Carlo Simulations:**
