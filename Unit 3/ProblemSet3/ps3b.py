@@ -469,5 +469,5 @@ def simulationWithDrug(numViruses, maxPop, maxBirthProb, clearProb, resistances,
     pylab.legend(loc = "best")
     pylab.show()
 
-#simulationWithDrug(100, 1000, 0.1, 0.05, {'guttagonol': False}, 0.005, 100) #test simulation
-simulationWithDrug(1, 10, 1.0, 0.0, {}, 1.0, 5)
+simulationWithDrug(100, 1000, 0.1, 0.05, {'guttagonol': False}, 0.005, 100) #test simulation
+#simulationWithDrug(1, 10, 1.0, 0.0, {}, 1.0, 5)
